@@ -1,2 +1,2 @@
 Este es la comunidad mejorando.laf
-.d
+.dd
